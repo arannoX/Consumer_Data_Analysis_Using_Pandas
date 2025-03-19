@@ -1,7 +1,7 @@
 # Customer Purchase Data Analysis using Pandas
 
 ## Overview
-This repository contains an in-depth analysis of customer purchase data using Python. The analysis explores customer demographics, transaction details, and purchasing behaviors to derive meaningful insights. 
+This repository contains an in-depth analysis of customer purchase data using Python Pandas library. The analysis explores customer demographics, transaction details, and purchasing behaviors to derive meaningful insights. 
 
 ## Dataset Description
 The dataset consists of **30,000 customer purchase records**, containing structured records detailing customer demographics, transaction amounts, and payment methods.
@@ -17,19 +17,22 @@ The dataset consists of **30,000 customer purchase records**, containing structu
 ### **Columns in the Dataset**
 
 #### **Customer Information**
-- **Personal Details**: `first`, `last`, `age`, `gender`, `profession`
-- **Contact Information**: `phone`, `email`, `province`
+- **Personal Details**: `first`, `last`, `age`, `gender`, `profession`, `company`
+- **Contact Information**: `phone`, `email`, `province`, `postal`
 
 #### **Transaction Details**
 - **Spending**: `price(CAD)`
 - **Purchase Timing**: `weekday`
+- **AM/PM**: `ampm`
 
 #### **Payment Information**
-- **Card Details**: `cc_no` (masked), `cc_type`, `cc_exp`
+- **Card Details**: `cc_no`, `cc_type`, `cc_exp`
 
 #### **Additional Attributes**
 - **Email Prefix**: `prefix`
 - **Favorite Color**: `fav_color`
+- **Internet Protocol Address**: `ip`
+
 
 ## Files in the Repository
 - **`Customer_Purchase_Analysis.ipynb`** - Jupyter Notebook containing the full data analysis.
