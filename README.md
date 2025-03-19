@@ -104,13 +104,13 @@ pip install pandas numpy
 7. **Customers Who Didn't Spend Anything - Special Deals Needed!**
    - **Dr. Bruce Bryan** (Male, 59, Engineer Technician at Wal-Mart Stores Inc.)
    - **Mrs. Flora Clark** (Female, 27, Cruise Director at MetLife Inc.)
-   **Company wants to send a deal to encourage the customer to buy stuff!**
+   - **Company wants to send a deal to encourage the customer to buy stuff!**
 
 8. **Customers Who Spent 100 CAD or More - Loyalty Reward Coupons!**
    - **Mrs. Gregory Brown** (Female, 31, Novelist at E*Trade Group, Inc.)
    - **Mrs. Cody Christensen** (Male, 28, Hospital Administrator at National City Corp.)
    - **Miss Lizzie Dixon** (Female, 38, Compensation Analyst at FleetBoston Financial Co.)
-   **Company wants to send a thanks coupon to those who spent 100 CAD or more, as a loyalty reward!**
+   - **Company wants to send a thanks coupon to those who spent 100 CAD or more, as a loyalty reward!**
 
 9. **Email Accounts Associated with a Specific Credit Card**
    - **Credit Card Number:** `5020000000000230`
@@ -139,10 +139,12 @@ pip install pandas numpy
     - **hotmail.com**: 1,659 users.
 
 15. **Customers Using "am.edu" Email**: 1 customer found.
+     - **Emails Associated:**
+     - **barit@am.edu**
 
-16. **Most Popular Shopping Day**: **Saturday** (4,376 customers).
+17. **Most Popular Shopping Day**: **Saturday** (4,376 customers).
 
-17. **Spending Statistics**:
+18. **Spending Statistics**:
     - **Max. Spending**: 100.0 CAD
     - **Min. Spending**: 0.0 CAD
     - **Avg. Spending**: 49.99 CAD
