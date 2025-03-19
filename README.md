@@ -100,54 +100,55 @@ pip install pandas numpy
 
 6. **Female Structural Engineers in Alberta (AB)**:
    - The dataset contains **4 female Structural Engineers** from Alberta.
+  
+7. **Spending Statistics**:
+    - **Max. Spending**: 100.0 CAD
+    - **Min. Spending**: 0.0 CAD
+    - **Avg. Spending**: 49.99 CAD
 
-7. **Customers Who Didn't Spend Anything - Special Deals Needed!**
+8. **Customers Who Didn't Spend Anything - Special Deals Needed!**
    - **Dr. Bruce Bryan** (Male, 59, Engineer Technician at Wal-Mart Stores Inc.)
    - **Mrs. Flora Clark** (Female, 27, Cruise Director at MetLife Inc.)
    - **Company wants to send a deal to encourage the customer to buy stuff!**
 
-8. **Customers Who Spent 100 CAD or More - Loyalty Reward Coupons!**
+9. **Customers Who Spent 100 CAD or More - Loyalty Reward Coupons!**
    - **Mrs. Gregory Brown** (Female, 31, Novelist at E*Trade Group, Inc.)
    - **Mrs. Cody Christensen** (Male, 28, Hospital Administrator at National City Corp.)
    - **Miss Lizzie Dixon** (Female, 38, Compensation Analyst at FleetBoston Financial Co.)
    - **Company wants to send a thanks coupon to those who spent 100 CAD or more, as a loyalty reward!**
 
-9. **Email Accounts Associated with a Specific Credit Card**
+10. **Email Accounts Associated with a Specific Credit Card**
    - **Credit Card Number:** `5020000000000230`
    - **Emails Associated:**
      - **sebvajom@kol.km**
      - **acu@jatsot.ug**
 
-10. **Credit Cards Expiring in 2019 - Need Replacement Cards!**
+11. **Credit Cards Expiring in 2019 - Need Replacement Cards!**
     The company identified **2,684 credit cards** that are set to expire in 2019.
     
-11. **How Many People Use Visa as Their Credit Card Provider?**
+12. **How Many People Use Visa as Their Credit Card Provider?**
     - **Total Visa Credit Card Users**: 1,721 customers.
 
-12. **Customers Who Spent 100 CAD Using Visa**:
+13. **Customers Who Spent 100 CAD Using Visa**:
     - **Customer Identified:** Mrs. Gregory Brown, 31, Novelist at E*Trade Group, Inc.
 
-13. **Most Common Professions**:
+14. **Most Common Professions**:
     - **Preschool Teacher**: 112 occurrences.
     - **Distribution Manager**: 107 occurrences.
 
-14. **Top 5 Most Popular Email Providers**:
+15. **Top 5 Most Popular Email Providers**:
     - **gmail.com**: 1,687 users.
     - **me.com**: 1,676 users.
     - **outlook.com**: 1,664 users.
     - **live.com**: 1,660 users.
     - **hotmail.com**: 1,659 users.
 
-15. **Customers Using "am.edu" Email**: 1 customer found.
+16. **Customers Using "am.edu" Email**: 1 customer found.
      - **Emails Associated:**
-     - **barit@am.edu**
+       - **barit@am.edu**
 
 17. **Most Popular Shopping Day**: **Saturday** (4,376 customers).
 
-18. **Spending Statistics**:
-    - **Max. Spending**: 100.0 CAD
-    - **Min. Spending**: 0.0 CAD
-    - **Avg. Spending**: 49.99 CAD
 
 ## Conclusion
 The analysis provides valuable insights into customer demographics, spending behaviors, and transaction patterns.
